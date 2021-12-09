@@ -73,8 +73,7 @@ CREATE EXTENSION earthdistance;
   -  https://floating-brushlands-95276.herokuapp.com/v2/api-docs  <br> <br>
 
 ## Consumindo API no Postman
-* Para consumir a API no Postman, pode, por exemplo, fazer os seguintes GET:
-+ Países:  https://cryptic-cove-41160.herokuapp.com/api/countries <br>
+ + Países:  https://cryptic-cove-41160.herokuapp.com/countries <br>
     + Estados do Brasil:  https://cryptic-cove-41160.herokuapp.com/staties <br>
     + Cidades do Brasil:  https://cryptic-cove-41160.herokuapp.com/cities <br>
     + Distância em milhas: https://cryptic-cove-41160.herokuapp.com/distances/by-points?from=4929&to=5254
