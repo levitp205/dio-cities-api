@@ -1,4 +1,3 @@
-# dio-cities-api
 # API de cidades do Brasil
 
 Este projeto é uma API Rest de consulta de cidades do Brasil com dados comparativos. Foi desenvolvido durante
@@ -73,7 +72,9 @@ CREATE EXTENSION earthdistance;
   -  https://floating-brushlands-95276.herokuapp.com/v2/api-docs  <br> <br>
 
 ## Consumindo API no Postman
-    + Países:  https://rocky-temple-79094.herokuapp.com/countries <br>
-    + Estados do Brasil:  https://rocky-temple-79094.herokuapp.com/staties <br>
-    + Cidades do Brasil:  https://rocky-temple-79094.herokuapp.com/cities <br>
-    + Distância em milhas: https://rocky-temple-79094.herokuapp.com/distances/by-points?from=4929&to=5254
+* Para consumir a API no Postman, pode, por exemplo, fazer os seguintes GET:
+
+    + Países:  https://rocky-temple-79094.herokuapp.com/api/countries <br>
+    + Estados do Brasil:  https://rocky-temple-79094.herokuapp.com/api/staties <br>
+    + Cidades do Brasil:  https://rocky-temple-79094.herokuapp.com/api/cities <br>
+    + Distância em milhas: https://rocky-temple-79094.herokuapp.com/api/distances/by-points?from=4929&to=5254
