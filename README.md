@@ -74,7 +74,7 @@ CREATE EXTENSION earthdistance;
 ## Consumindo API no Postman
 * Para consumir a API no Postman, pode, por exemplo, fazer os seguintes GET:
 
-    + Países:  https://rocky-temple-79094.herokuapp.com/api/countries <br>
-    + Estados do Brasil:  https://rocky-temple-79094.herokuapp.com/api/staties <br>
-    + Cidades do Brasil:  https://rocky-temple-79094.herokuapp.com/api/cities <br>
-    + Distância em milhas: https://rocky-temple-79094.herokuapp.com/api/distances/by-points?from=4929&to=5254
+    + Países:  https://rocky-temple-79094.herokuapp.com/countries <br>
+    + Estados do Brasil:  https://rocky-temple-79094.herokuapp.com/staties <br>
+    + Cidades do Brasil:  https://rocky-temple-79094.herokuapp.com/cities <br>
+    + Distância em milhas: https://rocky-temple-79094.herokuapp.com/distances/by-points?from=4929&to=5254
